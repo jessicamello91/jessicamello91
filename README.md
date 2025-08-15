@@ -25,8 +25,8 @@ Ainda descobrindo minha área de interesse — curiosa por front-end, back-end, 
 ---
 
 ## 📫 Onde me encontrar:
-- [LinkedIn](https://linkedin.com/in/seulink) *(troque pelo seu link real, se tiver)*
-- 📧 seuemail@gmail.com *(troque pelo seu e-mail profissional)*
+- [LinkedIn]www.linkedin.com/in/jéssica-mello-a7199b322
+- 📧 jessicanascimento991@cs.cruzeirodosul.edu.br
 
 ---
 
